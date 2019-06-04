@@ -1,5 +1,3 @@
-# aku_cepat_app_hd
-
 ## Project setup
 ```
 yarn install
