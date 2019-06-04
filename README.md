@@ -27,6 +27,7 @@ yarn run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 ### 相关文档
-``` vue [vue-class-component](https://github.com/vuejs/vue-class-component)
-``` vue [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
-``` vue [vuex-class](https://github.com/ktsn/vuex-class)
+``` 
+[vue-class-component](https://github.com/vuejs/vue-class-component). 
+[vue-property-decorator](https://github.com/kaorun343/vue-property-decorator).
+[vuex-class](https://github.com/ktsn/vuex-class).
